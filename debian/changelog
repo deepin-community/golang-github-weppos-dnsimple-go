@@ -1,5 +1,20 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-weppos-dnsimple-go (0.0~git20160204.0.65c1ca7-2.1) unstable; urgency=medium
 
-  * Initial release
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Holger Levsen <holger@debian.org>  Mon, 13 Jun 2022 16:10:12 +0200
+
+golang-github-weppos-dnsimple-go (0.0~git20160204.0.65c1ca7-2) unstable; urgency=medium
+
+  * Team upload.
+  * Use debhelper v10
+  * Use golang-any instead of golang-go
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Tue, 15 Nov 2016 12:02:01 +0100
+
+golang-github-weppos-dnsimple-go (0.0~git20160204.0.65c1ca7-1) unstable; urgency=medium
+
+  * Initial release (Closes: #834382).
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Mon, 15 Aug 2016 13:08:04 +1000
